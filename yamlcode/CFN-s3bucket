@@ -1,5 +1,0 @@
-Resources:
- S3cfn18:
-  Type: "AWS::S3::Bucket"
-  Properties: {}
- 
